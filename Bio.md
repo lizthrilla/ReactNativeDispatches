@@ -1,0 +1,3 @@
+# Bio
+
+Liz Tiller is a recovering film academic turned javascript developer working in React Native at Mad Mobile. She is the Tampa Bay City Organizer for Tech Ladies and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes. She finished the front end engineering program at The Iron Yard in February 2017. She is passionate about web accessibility, over analyzing movies, her cats, and bellydance.
