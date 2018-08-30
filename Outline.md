@@ -1,3 +1,3 @@
 # Outline
 
-React Native is advertised as a framework for developing native apps with javascript.  As a javscript developer working on a react native app, my team is able to 90% of our work with out needing to delve into the native 
+React Native is advertised as a framework for developing native apps with javascript.  Roughly 90% of the time, my team is able to work strictly in javascript, with only occassional trips into native code.  In particular, my team has found our Android build to require more care than its iOS counterpart.  This talk will look at the ways in which we have learned, sometimes the hard way, how to develop a react native app for Android, as well as my experience as a javascript developer being thrust into the native world.  In particular, I will discuss our use of the react native device detection package to work through our Android style audits and ways we have worked around react native's shortcomings.  
