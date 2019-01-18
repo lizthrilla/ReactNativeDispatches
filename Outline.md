@@ -21,3 +21,7 @@ React Native is advertised as a framework for developing native apps with javasc
 
 
 https://github.com/facebook/react-native/issues/3049
+
+https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a
+
+"Here’s a summary of the reasons why they are doing this, and some more reasons you probably don’t want to follow them until you are a multi-billion dollar piece of the internet." - https://medium.com/braus-blog/airbnb-is-dropping-react-js-should-you-too-dcbff36def5c
